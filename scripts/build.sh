@@ -1,3 +1,3 @@
 echo "Hello from Jenkins"
 cd ..
-cat readme.md
+cat README.md
